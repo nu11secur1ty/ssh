@@ -23,7 +23,7 @@ cat ~/.ssh/id_rsa.pub
 
 - Turn on SSH connection for your repository
 
-#We recommend every repository include a README, LICENSE, and .gitignore.
+# We recommend every repository include a README, LICENSE, and .gitignore.
 # …or create a new repository on the command line
 
 ```
