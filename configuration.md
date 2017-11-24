@@ -4,7 +4,7 @@ ssh-keygen -t rsa -b 4096 -C "example@mail.com"
 
 ```
 
-#Adding your SSH key to the ssh-agent
+# Adding your SSH key to the ssh-agent
 
 ```
 eval "$(ssh-agent -s)"
